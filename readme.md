@@ -1,20 +1,18 @@
 ## The task
 
-Implement the wireframe in wireframe-main.png as a live prototype.
+1. Implement the wireframe in wireframe-main.png as a live prototype.
+2. Use the products data in products.json to fill in everything wrapped in `{{` and `}}` in the prototype.
+3. When clicking the Product Price, add the item to the user's cart.
 
-Use the products data in products.json to fill in everything wrapped in `{{` and `}}` in the prototype.
+    Save the "Added product" locally, either to a variable, cookie, local storage or something else.
 
-When clicking the Product Price, add the item to the user's cart.
+4. Implement the "Cart drawer" in wireframe-cart.png as part of the other prototype.
 
-  Save the "Added product" locally, either to a variable, cookie, local storage or something else.
+    Make the cart update to show the currently added products and a total price.
 
-Implement the "Cart drawer" in wireframe-cart.png as part of the other prototype.
+    The cart drawer should open and close when clicking the cart icon.
 
-  Make the cart update to show the currently added products and a total price.
-
-  The cart drawer should open and close when clicking the cart icon.
-
-Make the "Product filter" functional by allowing users to filter by color and size.
+5. Make the "Product filter" functional by allowing users to filter by color and size.
 
 ## Specifications
 
